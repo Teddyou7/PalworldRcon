@@ -2,12 +2,12 @@
 
 感谢[mcrcon](https://github.com/Tiiffi/mcrcon)项目，以及GPT-4.0。
 
-###GCC
+## GCC
 ```
 gcc -o PalworldRcon PalworldRcon.c -std=gnu99
 ```
 
-###Usage
+## 使用方法
 ```
 ./PalworldRcon -H127.0.0.1 -P25575 -p"your_passwd" "ShowPlayers" ok
 ```
